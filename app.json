@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "wkc_map",
-    "slug": "wkc_map",
+    "name": "wkc",
+    "slug": "wkc",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
